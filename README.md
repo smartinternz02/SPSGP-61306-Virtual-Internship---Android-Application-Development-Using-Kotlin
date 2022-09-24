@@ -5,7 +5,7 @@ Name: Apoorva Singh <br>
 SBID:	SB20220208921
 <h1 align="center"> Grocery App Project </h1> <br>
 <p align="center">
-  <a href="https://github.com/smartinternz02/SPSGP-61306-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery%20App.zip">
+  <a href="https://github.com/smartinternz02/SPSGP-61306-Virtual-Internship---Android-Application-Development-Using-Kotlin">
     <img alt="Grocery" title="Grocery" src="https://user-images.githubusercontent.com/97695341/192101558-c6997212-8c3b-4bd9-8dbe-24ad100f1434.jpg" width="300">
   </a>
 </p>
