@@ -34,4 +34,4 @@ As we can't remember everything, users frequently forget to buy the things they 
   
 </details> 
 
-### Other projects in the repository are of Android Basics in Kotlin
+### Other projects in this repository are of Android Basics in Kotlin
