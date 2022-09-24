@@ -22,7 +22,6 @@ As we can't remember everything, users frequently forget to buy the things they 
 ### Tech Stack used :
 
 * **Kotlin** (Official Language for Android) -> https://kotlinlang.org/docs/home.html
-* **Jetpack Compose**(Android’s modern toolkit for building native UI) -> https://developer.android.com/jetpack/compose/documentation
 
 ###  Screenshots :
 <details>
