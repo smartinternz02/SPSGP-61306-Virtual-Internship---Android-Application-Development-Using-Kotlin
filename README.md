@@ -10,10 +10,9 @@ SBID:	SB20220208921
     <img alt="Grocery" title="Grocery" src="https://user-images.githubusercontent.com/97695341/192101558-c6997212-8c3b-4bd9-8dbe-24ad100f1434.jpg" width="300">
   </a>
 </p>
-
-<a href="https://drive.google.com/file/d/166AphvA_ULvzwDgVgv0kdRszjIJqIOcN/view?usp=sharing"><h3 align="center">Video Demo of the app in action</h4></a>
-
-<a href="https://drive.google.com/file/d/1CXhV0HonHN_8ya7f__HbwfvEcvDU64sF/view?usp=sharing"><h4 align="center">Download the APK here</h4></a>
+Video demo of the app in action: https://drive.google.com/file/d/166AphvA_ULvzwDgVgv0kdRszjIJqIOcN/view?usp=sharing
+<br>
+Download the APK here: https://drive.google.com/file/d/1CXhV0HonHN_8ya7f__HbwfvEcvDU64sF/view?usp=sharing
 
 As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this **Grocery App**, you can make a list of the groceries you intend to buy so that you don't forget anything. Screenshots showing the functioning of application have been provided below.
 
